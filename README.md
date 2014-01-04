@@ -1,0 +1,4 @@
+cointelligence
+==============
+
+Cointelligence strategies
