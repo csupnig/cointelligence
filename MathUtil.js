@@ -2,8 +2,7 @@
 	
 	'use strict';
 	
-	var $ = window.jQuery;
-    
+	
 		 
 	var MathUtil = function () {
 	};

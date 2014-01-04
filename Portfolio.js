@@ -2,7 +2,7 @@
 	
 	'use strict';
 	
-	var $ = window.jQuery;
+	
 		 
     var Portfolio = function (scope) {
         this.scope = scope;

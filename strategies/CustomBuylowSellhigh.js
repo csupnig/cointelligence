@@ -2,9 +2,7 @@
 	
 	'use strict';
 	
-	var $ = window.jQuery;
-
-
+	
 	var CustomStrategy = function (options) {
         this.title = "Custom buy low / sell high";
         this.id = "custombuylowsellhigh";

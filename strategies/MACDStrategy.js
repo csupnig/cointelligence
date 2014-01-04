@@ -2,9 +2,7 @@
 	
 	'use strict';
 	
-	var $ = window.jQuery;
-    
-		 
+			 
 	var MACDStrategy = function (options) {
         this.title = "MACD 12/26/9";
         this.id = "macd12269";

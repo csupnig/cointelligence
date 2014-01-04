@@ -2,8 +2,7 @@
 	
 	'use strict';
 	
-	var $ = window.jQuery;
-    
+	    
 		 
 	var CustomStrategy = function (options) {
         this.title = "Custom MACD / EMA 50% FIAT";

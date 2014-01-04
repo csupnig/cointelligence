@@ -2,9 +2,7 @@
 	
 	'use strict';
 	
-	var $ = window.jQuery;
-    
-		 
+			 
 	var RebalanceStrategy = function (options) {
         this.title = "EMA Rebalance portfolio";
         this.id = "emarebalanceportfolio";

@@ -2,8 +2,7 @@
 	
 	'use strict';
 	
-	var $ = window.jQuery;
-    
+	    
 		 
 	var SimpleStrategy = function (options) {
         this.title = "Simple Price Stragety";

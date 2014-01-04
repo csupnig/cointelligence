@@ -2,9 +2,7 @@
 	
 	'use strict';
 	
-	var $ = window.jQuery;
-    
-		 
+			 
 	var EMAStrategy = function (options) {
         this.title = "EMA 10/21";
         this.id = "ema10/21";

@@ -2,7 +2,6 @@
     
     'use strict';
     
-    var $ = window.jQuery;
     
          
     var RebalanceStrategy = function (options) {
