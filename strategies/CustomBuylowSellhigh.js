@@ -2,7 +2,7 @@
 	
 	'use strict';
 	
-	
+
 	var CustomStrategy = function (options) {
         this.title = "Custom buy low / sell high";
         this.id = "custombuylowsellhigh";

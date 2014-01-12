@@ -2,8 +2,7 @@
 	
 	'use strict';
 	
-	    
-		 
+			 
 	var CustomStrategy = function (options) {
         this.title = "Custom MACD / EMA 50% FIAT";
         this.id = "custommacdema50";

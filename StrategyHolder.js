@@ -2,7 +2,8 @@
 	
 	'use strict';
 	
-	    
+	var $ = window.jQuery;
+    
     var strategies = {};
 
     var strategyKeys = [];

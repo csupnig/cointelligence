@@ -2,7 +2,7 @@
 	
 	'use strict';
 	
-	    
+	  
 		 
 	var SimpleStrategy = function (options) {
         this.title = "Simple Price Stragety";

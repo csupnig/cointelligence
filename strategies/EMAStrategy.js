@@ -2,7 +2,8 @@
 	
 	'use strict';
 	
-			 
+	   
+		 
 	var EMAStrategy = function (options) {
         this.title = "EMA 10/21";
         this.id = "ema10/21";

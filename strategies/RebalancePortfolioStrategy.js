@@ -2,8 +2,7 @@
     
     'use strict';
     
-    
-         
+             
     var RebalanceStrategy = function (options) {
         this.title = "Rebalance portfolio";
         this.id = "rebalanceportfolio";
